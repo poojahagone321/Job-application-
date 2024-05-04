@@ -1,0 +1,30 @@
+.jobs-cont {
+    background-color: black;
+}
+
+.jobs-section {
+    width: 100%;
+    min-height: 100%;
+    border: 1px solid white;
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.filter-section {
+    width: 25%;
+    height: 100vh;
+    border: 1px solid white;
+}
+
+.all-jobs-section {
+    width: 70%;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+
+}
+.parent-cont{
+    width: 100%;
+}
